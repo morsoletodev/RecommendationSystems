@@ -1,0 +1,8 @@
+# Bibliotecas necessárias
+
+pandas == 2.2.2
+numpy == 2.0.2
+kagglehub == 0.3.13
+kagglehub[pandas-datasets] == 0.3.13
+seaborn == 0.13.2
+scikit-learn == 1.6.1
